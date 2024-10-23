@@ -3,3 +3,4 @@ age <- 4
 type <- "tabby"
 gender <- "F"
 2 * 3
+
